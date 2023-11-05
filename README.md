@@ -1,2 +1,2 @@
-# uipath_as_cluster_config
+# UiPath automation suite cluster config file generator
 UiPath automation suite cluster config file generator
